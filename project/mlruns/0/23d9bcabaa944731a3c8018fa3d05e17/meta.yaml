@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/23d9bcabaa944731a3c8018fa3d05e17/artifacts
+deleted_time: 1762453008572
+end_time: 1762452824759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23d9bcabaa944731a3c8018fa3d05e17
+run_name: auspicious-koi-757
+run_uuid: 23d9bcabaa944731a3c8018fa3d05e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452815681
+status: 4
+tags: []
+user_id: chach

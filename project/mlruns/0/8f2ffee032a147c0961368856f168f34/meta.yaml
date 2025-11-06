@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/8f2ffee032a147c0961368856f168f34/artifacts
+deleted_time: 1762453008571
+end_time: 1762452846954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f2ffee032a147c0961368856f168f34
+run_name: rambunctious-bee-31
+run_uuid: 8f2ffee032a147c0961368856f168f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452837489
+status: 4
+tags: []
+user_id: chach

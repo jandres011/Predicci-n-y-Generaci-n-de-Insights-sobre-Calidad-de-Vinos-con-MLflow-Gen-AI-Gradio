@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/87a2a76d728a4577bdbfaf38a2ce68c3/artifacts
+deleted_time: 1762453008570
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 87a2a76d728a4577bdbfaf38a2ce68c3
+run_name: flawless-bee-614
+run_uuid: 87a2a76d728a4577bdbfaf38a2ce68c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452869958
+status: 1
+tags: []
+user_id: chach

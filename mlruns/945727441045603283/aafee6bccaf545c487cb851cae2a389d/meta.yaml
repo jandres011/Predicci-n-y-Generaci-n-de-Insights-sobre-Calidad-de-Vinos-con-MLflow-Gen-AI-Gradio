@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/mlruns/945727441045603283/aafee6bccaf545c487cb851cae2a389d/artifacts
+end_time: 1762451423825
+entry_point_name: ''
+experiment_id: '945727441045603283'
+lifecycle_stage: active
+run_id: aafee6bccaf545c487cb851cae2a389d
+run_name: intelligent-ant-653
+run_uuid: aafee6bccaf545c487cb851cae2a389d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762451417128
+status: 3
+tags: []
+user_id: chach

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/f8a865c8d1ad4830ac7eff279ffca741/artifacts
+deleted_time: 1762453008601
+end_time: 1762452599632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8a865c8d1ad4830ac7eff279ffca741
+run_name: nosy-crow-901
+run_uuid: f8a865c8d1ad4830ac7eff279ffca741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452589975
+status: 4
+tags: []
+user_id: chach

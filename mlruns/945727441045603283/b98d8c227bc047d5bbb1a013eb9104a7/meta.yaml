@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/mlruns/945727441045603283/b98d8c227bc047d5bbb1a013eb9104a7/artifacts
+end_time: 1762451402110
+entry_point_name: ''
+experiment_id: '945727441045603283'
+lifecycle_stage: active
+run_id: b98d8c227bc047d5bbb1a013eb9104a7
+run_name: receptive-stag-171
+run_uuid: b98d8c227bc047d5bbb1a013eb9104a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762451402038
+status: 4
+tags: []
+user_id: chach

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1762452688712
+current_stage: None
+description: null
+last_updated_timestamp: 1762452688712
+name: WineQualityModel
+run_id: 45bce2acb90d4e33848a6b5ee06352af
+run_link: null
+source: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/45bce2acb90d4e33848a6b5ee06352af/artifacts/wine_quality_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/45bce2acb90d4e33848a6b5ee06352af/artifacts/wine_quality_model
+user_id: null
+version: 1

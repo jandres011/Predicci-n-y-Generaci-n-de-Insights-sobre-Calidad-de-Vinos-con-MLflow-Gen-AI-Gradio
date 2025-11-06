@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/fa714d6468ee4f47b463722e678eddb2/artifacts
+deleted_time: 1762453008602
+end_time: 1762452572487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa714d6468ee4f47b463722e678eddb2
+run_name: calm-roo-578
+run_uuid: fa714d6468ee4f47b463722e678eddb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452562245
+status: 4
+tags: []
+user_id: chach

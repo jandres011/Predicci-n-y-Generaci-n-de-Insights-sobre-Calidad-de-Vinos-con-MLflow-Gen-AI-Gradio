@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/76c3f328710d41f39592c14e0655a6ba/artifacts
+deleted_time: 1762453008588
+end_time: 1762452769323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76c3f328710d41f39592c14e0655a6ba
+run_name: sincere-stag-891
+run_uuid: 76c3f328710d41f39592c14e0655a6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452753357
+status: 3
+tags: []
+user_id: chach

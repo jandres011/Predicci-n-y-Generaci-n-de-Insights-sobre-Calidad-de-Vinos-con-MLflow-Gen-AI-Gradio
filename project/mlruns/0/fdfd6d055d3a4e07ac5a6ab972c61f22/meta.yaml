@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/project/mlruns/0/fdfd6d055d3a4e07ac5a6ab972c61f22/artifacts
+deleted_time: 1762453008585
+end_time: 1762452788879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fdfd6d055d3a4e07ac5a6ab972c61f22
+run_name: unruly-sponge-750
+run_uuid: fdfd6d055d3a4e07ac5a6ab972c61f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762452779410
+status: 4
+tags: []
+user_id: chach

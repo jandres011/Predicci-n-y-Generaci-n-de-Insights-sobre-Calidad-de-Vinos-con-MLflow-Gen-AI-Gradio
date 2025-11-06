@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chach/OneDrive/Documents/10mo%20Semestre/MLOps/Proyecto%20final/mlruns/0/878a667f085947dcb4aeac9ab3995f08/artifacts
+end_time: 1762458605601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 878a667f085947dcb4aeac9ab3995f08
+run_name: defiant-wasp-899
+run_uuid: 878a667f085947dcb4aeac9ab3995f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762458605515
+status: 3
+tags: []
+user_id: chach
