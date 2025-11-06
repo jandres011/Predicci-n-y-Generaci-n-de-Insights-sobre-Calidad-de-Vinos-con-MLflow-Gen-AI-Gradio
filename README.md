@@ -31,7 +31,7 @@ Desarrollar un sistema end-to-end que:
 ## Estructura del Proyecto
 
 .
-├── data/ # Dataset: winequality-white.csv
+'''├── data/ # Dataset: winequality-white.csv
 ├── notebooks/ # Análisis exploratorio (Jupyter)
 ├── src/ # Código fuente modular
 │ ├── train.py # Entrenamiento con MLflow Tracking
@@ -42,9 +42,7 @@ Desarrollar un sistema end-to-end que:
 │ └── app.py # Interfaz con modelo desde Model Registry
 ├── MLproject # Definición de MLflow Project
 ├── conda.yaml # Entorno reproducible
-├── README.md # Este archivo
-├── informe.pdf # Informe final del proyecto
-└── demo.mp4 # Video demostrativo (≤3 min)
+└── README.md # Este archivo'''
 
 yaml
 Copiar código
