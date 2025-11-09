@@ -3,6 +3,7 @@
 ## MLOps con MLflow + Gen AI + Gradio
 
 Este proyecto implementa un pipeline completo de MLOps para predecir la calidad de vinos blancos a partir de sus propiedades químicas, integrando experimentación reproducible, registro de modelos, interfaz de usuario interactiva y explicaciones generadas por inteligencia artificial.
+Video: https://drive.google.com/file/d/1bGPGXP3mBztb0HIOQYQAvMCqv2EXoeTS/view?usp=sharing
 
 ---
 
@@ -135,3 +136,4 @@ Este repositorio incluye:
 **Nombres**: Juan Mosquera, Anderson Bornachera  
 **Curso**: MLOps – Universidad del Magdalena  
 **Fecha**: Noviembre 2025
+
